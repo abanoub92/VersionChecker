@@ -47,4 +47,4 @@ class MainActivity : ComponentActivity() {
 
 ## Library License
 
-##### Library Licensed under the Apache License, see the [License](https://www.apache.org/licenses/LICENSE-2.0.txt)
+##### Library Licensed under the Apache License, see the [License](https://github.com/abanoub92/VersionChecker?tab=Apache-2.0-1-ov-file)
