@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VersionChecker</string>
+
+    <string name="version_checker_title">تحديث متاح</string>
+    <string name="version_checker_ok">تحديث</string>
+    <string name="version_checker_desc">هناك نسخة جديدة متوفرة علي متجر جوجل بلاي يجب عليك التحديث النسخة المثبتة علي جهازك</string>
+
+</resources>
